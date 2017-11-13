@@ -21,3 +21,6 @@ for row in row_list:
 	data = [cell.text.encode('utf-8').strip() for cell in cell_list]
 
 	writer.writerow(data)
+	
+	
+	# AHHHHH FINALLY 
